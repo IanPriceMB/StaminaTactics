@@ -3,7 +3,6 @@
     [
       "@babel/env",
       {
-        "useBuiltIns": "entry",
         "targets": { 
           "browsers": "> 0.25%, not dead",
           "node": "current"
